@@ -1,0 +1,11 @@
+2024-08-28 15:56:08,358 - INFO - Found 1 video files to process.
+2024-08-28 15:56:08,358 - INFO - Estimated total time: 2.00 minutes
+2024-08-28 15:56:08,374 - ERROR - Error processing P://Internship//Transcription//output_audio\Lauv - Steal The Show.mp3: [WinError 2] The system cannot find the file specified
+2024-08-28 15:56:08,374 - INFO - Completed batch. Cooling for 60 seconds.
+2024-08-28 15:57:08,387 - INFO - All videos processed.
+2024-08-28 15:58:27,820 - INFO - Found 1 video files to process.
+2024-08-28 15:58:27,820 - INFO - Estimated total time: 2.00 minutes
+2024-08-28 15:58:27,844 - ERROR - File not found: [WinError 2] The system cannot find the file specified
+2024-08-28 15:58:27,845 - ERROR - Error processing Lauv - Steal The Show.mp3: [WinError 2] The system cannot find the file specified
+2024-08-28 15:58:27,847 - INFO - Completed batch. Cooling for 60 seconds.
+2024-08-28 15:59:27,849 - INFO - All videos processed.
