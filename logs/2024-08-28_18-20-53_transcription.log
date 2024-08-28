@@ -1,0 +1,5 @@
+2024-08-28 18:20:53,468 - INFO - Found 1 video files to process.
+2024-08-28 18:21:00,230 - INFO - Successfully converted P://Internship//Transcription//input_videos\Lauv - Steal The Show.mp4 to P://Internship//Transcription//output_audio\Lauv - Steal The Show.mp3
+2024-08-28 18:21:00,230 - INFO - Completed batch. Cooling for 6 seconds.
+2024-08-28 18:21:59,052 - INFO - Successfully transcribed P://Internship//Transcription//output_audio\Lauv - Steal The Show.mp3 to P://Internship//Transcription//output_transcripts\Lauv - Steal The Show.txt
+2024-08-28 18:21:59,052 - INFO - All videos processed.
