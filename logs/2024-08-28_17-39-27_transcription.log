@@ -1,5 +1,0 @@
-2024-08-28 17:39:27,445 - INFO - Found 1 video files to process.
-2024-08-28 17:39:27,456 - ERROR - File not found: [WinError 2] The system cannot find the file specified
-2024-08-28 17:39:27,456 - ERROR - Error processing P://Internship//Transcription//output_audio\videoplayback.mp3: [WinError 2] The system cannot find the file specified
-2024-08-28 17:39:27,457 - INFO - Completed batch. Cooling for 6 seconds.
-2024-08-28 17:39:33,458 - INFO - All videos processed.

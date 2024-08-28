@@ -1,5 +1,0 @@
-2024-08-28 18:18:45,086 - INFO - Found 1 video files to process.
-2024-08-28 18:18:47,099 - INFO - Successfully converted P://Internship//Transcription//input_videos\videoplayback.mp4 to P://Internship//Transcription//output_audio\videoplayback.mp3
-2024-08-28 18:18:47,099 - INFO - Completed batch. Cooling for 6 seconds.
-2024-08-28 18:20:00,284 - INFO - Successfully transcribed P://Internship//Transcription//output_audio\videoplayback.mp3 to P://Internship//Transcription//output_transcripts\videoplayback.txt
-2024-08-28 18:20:00,284 - INFO - All videos processed.
